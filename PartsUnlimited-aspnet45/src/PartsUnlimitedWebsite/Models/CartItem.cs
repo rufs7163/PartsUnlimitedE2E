@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class CartItem : ILineItem
     {
+        //주석 입니다.
         [Key]
         public int CartItemId { get; set; }
 
